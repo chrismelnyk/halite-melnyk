@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.exe
+Halite2_Python3_Windows/hlt/__init__.py
+Halite2_Python3_Windows/hlt/collision.py
+Halite2_Python3_Windows/hlt/constants.py
+Halite2_Python3_Windows/hlt/entity.py
+Halite2_Python3_Windows/hlt/game_map.py
+Halite2_Python3_Windows/hlt/networking.py
+Halite2_Python3_Windows/README.MD
+Halite2_Python3_Windows/run_game.bat
+Halite2_Python3_Windows/run_game.sh
